@@ -1,0 +1,6 @@
+name: rotko-theme
+description: 'Clean TailwindCSS minimal starter theme. The theme should be usable for developers, rather than end-users. It contains clean, blank canvas that can be used to develop your own websites. It does NOT contain any sub-pages, additional js or css libraries etc. '
+author: RotkoNetworks
+homepage: 'https://rotko.net'
+code: rotko-theme
+previewImage: assets/dist/images/theme-preview.png
