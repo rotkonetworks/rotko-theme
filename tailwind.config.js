@@ -3,8 +3,9 @@ module.exports = {
     	// https://javisperez.github.io/tailwindcolorshades/#/?lochinvar=37877D&bright-turquoise=17EBE8&wild-strawberry=eb1784&blue-bayoux=556978&Oxford%20Blue=334755&tv=1
     	// primary default https://adevade.github.io/color-scheme-generator/
         colors: {
+			
 			'primary': {
-			default: '37877D',
+			default: '#37877D',
 			100: '#EBF3F2',
 			200: '#CDE1DF',
 			300: '#AFCFCB',
@@ -17,7 +18,7 @@ module.exports = {
 			},
 			
 			'secondary': {
-			default: '17EBE8',
+			default: '#17EBE8',
 			100: '#E8FDFD',
 			200: '#C5FAF9',
 			300: '#A2F7F6',
@@ -30,7 +31,7 @@ module.exports = {
 			},
 			
 			'tertiary': {
-			default: 'EB1784',
+			default: '#EB1784',
 			100: '#FDE8F3',
 			200: '#FAC5E0',
 			300: '#F7A2CE',
@@ -43,7 +44,7 @@ module.exports = {
 			},
 
 			'oxford': {
-			default: '334755',
+			default: '#334755',
 			100: '#EBEDEE',
 			200: '#CCD1D5',
 			300: '#ADB5BB',
