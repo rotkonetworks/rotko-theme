@@ -29,7 +29,7 @@ module.exports = {
 			900: '#074746',
 			},
 			
-			'tetriary': {
+			'tertiary': {
 			default: 'EB1784',
 			100: '#FDE8F3',
 			200: '#FAC5E0',

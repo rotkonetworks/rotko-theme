@@ -19,7 +19,7 @@ There are other TailwindCss themes on October, however they failed me in several
 This theme has no options - developers who need them can quickly add them as explained in OctoberCMS docs: https://octobercms.com/docs/themes/development#customization
 
 ### Theme Colors
-The theme uses a limited color selection. In the file `tailwind.config.js` you can find four sets of colours: primary, secondary, tertiary and grey, each of them with five variations: lightest, light, default, dark, and darkest.
+The theme uses a limited color selection. In the file `tailwind.config.js` you can find four sets of colours: primary, secondary, tertiary and oxford, each of them with five variations: lightest, light, default, dark, and darkest.
 
 There is an advantage to this setup - you can quickly change colors in the whole app, just by changing the primary & secondary colors.
 
