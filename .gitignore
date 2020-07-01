@@ -1,5 +1,6 @@
-node_modules
+node_modules/
 package-lock.json
 assets/dist/css/style.css
 assets/dist/js/app.js
 mix-manifest.json
+yarn.lock
