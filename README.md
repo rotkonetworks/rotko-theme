@@ -1,4 +1,4 @@
-# TabulaRasa Theme
+# rotko.net theme
 A free, minimal boilerplate theme for OctoberCMS using Tailwindcss. 
 
 I created this theme based on my personal needs, I hope somebody else will find it useful, too :-)
@@ -63,4 +63,4 @@ When you run npm install in the setup phase, all support libraries for using vue
 
 ### Theme License
 
-MIT License - check out [LICENSE.md](LICENSE.md) file for MIT license details# rotko.net theme
+MIT License - check out [LICENSE.md](LICENSE.md) file for MIT license details
