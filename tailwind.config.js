@@ -57,7 +57,8 @@ module.exports = {
 			
             'error': '#FF6363',
             'transparent': 'transparent',
-            'white': '#ffffff',
+			
+			'white': '#ffffff',
             'gray-lightest': '#f8f9f9',
             'gray-lighter': '#e4e5e5',
             'gray-light': '#d1d1d1',
