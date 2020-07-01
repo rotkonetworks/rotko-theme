@@ -29,7 +29,7 @@ mix.setPublicPath('./')
     .js('assets/src/js/app.js', 'assets/dist/js')
     .postCss('assets/src/css/style.css', 'assets/dist/css', postCssPlugins)
     .browserSync({
-        proxy: 'http://rotko.net/', //replace with your url
+        proxy: 'http://localhost:3000', //replace with your url
         files: [
             'layouts/**/*.htm',
             'pages/**/*.htm',
